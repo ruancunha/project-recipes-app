@@ -35,16 +35,10 @@ Recipes App é um web app que lista, favorita e apresenta receitas de comidas e 
 4. Use as seguintes credenciais para acessar:
 * email: `test@test.com`
 * senha: `admin01`
-<!---
-## Executando os testes
-
-Inicialize o projeto Execute os testes do back-end utilizando o comando:
-
-* `npm run cy`
 
 ## Próximos passos (Roadmap)
 
-- [X]  Adicionar instruções de instalação e execução local
+- [ ]  Finalizar CSS
 - [ ]  Hospedar e disponibilizar online
-- [ ]  Criar frontend original para substituir o da Trybe
---->
+- [ ]  Substituir imagens disponibilizadas pela Trybe
+
