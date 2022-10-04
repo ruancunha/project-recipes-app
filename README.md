@@ -1,16 +1,47 @@
-# 🚧 README em construção 🚧
+# Projeto Recipes App
 
-<!-- Olá, Tryber!
+## Contexto
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+Projeto em grupo criado durante o módulo de front-end do curso da [Trybe](https://www.betrybe.com/), junto com [Frederico Wilkens](https://github.com/frediwilkens), [Matheus Sena](https://github.com/msennaa) e [Victor Calidor](https://github.com/VCalidor).
+Recipes App é um web app que lista, favorita e apresenta receitas de comidas e bebidas.
 
-É essencial que você preencha esse documento por conta própria, ok?
+<!-- | ![Exemplo do front-end]() | -->
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+## API's utilizadas:
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+- [TheMealDB API](https://www.themealdb.com/): API de receitas, aberto e mantido pela comunidade. Em inglês.
+- [The CockTailDB API](https://www.thecocktaildb.com/): API de receitas de drinks, da mesma entidade. Em inglês.
 
--->
+
+## Tecnologias utilizadas
+
+- React.Js
+- React Hooks
+- Context API
+
+# Como rodar
+
+> Na sua máquina você deve ter:
+>
+> - Sistema Operacional Distribuição Unix (Ubuntu, Debian, Pop_OS...)
+> - Node versão 16
+
+1. Clone o repositório e acesse a pasta com o comando:
+* `git clone git@github.com:ruancunha/project-recipes-app.git && cd project-recipes-app`
+2. Instale as dependências:
+* `npm install`
+3. Inicialize o projeto:
+* `npm start`
+<!---
+## Executando os testes
+
+Inicialize o projeto Execute os testes do back-end utilizando o comando:
+
+* `npm run cy`
+
+## Próximos passos (Roadmap)
+
+- [X]  Adicionar instruções de instalação e execução local
+- [ ]  Hospedar e disponibilizar online
+- [ ]  Criar frontend original para substituir o da Trybe
+--->
