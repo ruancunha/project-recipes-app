@@ -32,6 +32,9 @@ Recipes App é um web app que lista, favorita e apresenta receitas de comidas e 
 * `npm install`
 3. Inicialize o projeto:
 * `npm start`
+4. Use as seguintes credenciais para acessar:
+* email: `test@test.com`
+* senha: `admin01`
 <!---
 ## Executando os testes
 
